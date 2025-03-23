@@ -8,5 +8,6 @@ PUC_v1 is an ESP32-based Universal Controller that features 4 analog controls, 8
 ![alt text](https://github.com/PrasZ24/PUC_v1/blob/main/Screenshoot/image.png?raw=true)
 
 ## Function Overview
-`begin(char* wifi_ssid, char* wifi_pw, IPAddress wifi_address, bool toggle_battery)` : Mandatory function in every project. Must be declared at the beginning of the program.
+`begin()` : Mandatory function in every project. Must be declared at the beginning of the program.
+`setBatteryPin()` : To define which analog pins are connected to the battery voltage divider. Optional if battery percentage is not used.
 
