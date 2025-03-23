@@ -18,10 +18,15 @@ void puc::begin(const char* wifi_ssid, const char* wifi_pw, IPAddress wifi_addre
     <html>
         <head>
             <title>P-Universal Controller V1</title>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
             <style>
-                body {
-                    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+                html, body {
+                overscroll-behavior-y: contain;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+                user-select: none; /* Mencegah pemilihan teks */
+                -webkit-user-select: none; /* Safari */
+                -moz-user-select: none; /* Firefox */
+                -ms-user-select: none; /* Internet Explorer/Edge */
                 }
                 input[type="range"] {
                 appearance: none;
