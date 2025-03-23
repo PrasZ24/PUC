@@ -27,5 +27,8 @@ PUC_v1 is an ESP32-based Universal Controller that features 4 analog controls, 8
 `getButton5()` : Gets the boolean value of the 5 button. Returns a value of 1 or 0. <br/>
 `getButton6()` : Gets the boolean value of the 6 button. Returns a value of 1 or 0. <br/>
 
-
+## :warning: Warning and Limitation
+* Use landscape mode for better viewing
+* Large flash-size uses!
+ 
 
