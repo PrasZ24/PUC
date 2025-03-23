@@ -8,5 +8,5 @@ PUC_v1 is an ESP32-based Universal Controller that features 4 analog controls, 8
 ![alt text](https://github.com/PrasZ24/PUC_v1/blob/main/Screenshoot/image.png?raw=true)
 
 ## Function Overview
-`begin(const char* wifi_ssid, const char* wifi_pw, IPAddress wifi_address, bool toggle_battery)` : 
+`begin(char* wifi_ssid, char* wifi_pw, IPAddress wifi_address, bool toggle_battery)` : Mandatory function in every project. Must be declared at the beginning of the program.
 
