@@ -1,4 +1,4 @@
-# PUC_v1
+# PUC_v1 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ESP32 Universal Controller with WebServer
 
 ## Description
