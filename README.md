@@ -29,6 +29,6 @@ PUC_v1 is an ESP32-based Universal Controller that features 4 analog controls, 8
 
 ## :warning: Warning and Limitation
 * Use landscape mode for better viewing
-* Large flash-size uses!
+* Large flash-size usage!
  
 
