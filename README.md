@@ -1,4 +1,5 @@
-# PUC_v1 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![teste][(https://img.shields.io/github/v/release/:user/:repo)](https://img.shields.io/github/v/release/https%3A%2F%2Fgithub.com%2FPrasZ24/https%3A%2F%2Fgithub.com%2FPrasZ24%2FPUC_v1)
+# PUC_v1 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![GitHub Release](https://img.shields.io/github/v/release/PrasZ4/PUC_v1)
+
 ESP32 Universal Controller with WebServer
 
 ## Description
