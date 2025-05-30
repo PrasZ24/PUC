@@ -37,6 +37,7 @@ This library uses the following libraries, so make sure they are installed:
 
 ## :warning: Warning and Limitation
 * Use landscape mode!
+* Captive portal not always good. So, use browser instead.
 * Large flash-size usage!
  
 
