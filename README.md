@@ -10,8 +10,8 @@ PUC_v1 is an ESP32-based Universal Controller that features 4 analog controls, 8
 This controller operates in **Wi-Fi AP mode** and provides a **web server-based interface**, allowing users to control devices over a local network without requiring an internet connection.
 
 This library uses the following libraries, so make sure they are installed:
-
 - `WiFi.h` (built-in on ESP32 core)
+- `DNSServer.h` (built-in on ESP32 core)
 - [`AsyncTCP.h`](https://github.com/ESP32Async/AsyncTCP)
 - [`ESPAsyncWebServer.h`](https://github.com/ESP32Async/ESPAsyncWebServer)
 
