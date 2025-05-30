@@ -19,11 +19,11 @@ This library uses the following libraries, so make sure they are installed:
 
 
 ## Screenshoot
-![Demo screenshoot](https://github.com/PrasZ24/PUC_v1/blob/main/Screenshoot/image.png?raw=true)
+![Demo screenshoot](https://github.com/PrasZ24/PUC_v1/blob/main/Screenshoot/PUC_v2.jpg)
 
 ## Function Overview
 `begin()` : Mandatory function in every project. Must be declared at the beginning of the program.<br/>
-`device_status` : Get status if any devices connected to Wifi. Will return an boolean, <code>true</code> when any connected and <code>false</code> when no ones device connected.<br/>
+`device_status` : Get status if any devices connected to Wifi. Will return an boolean, <code>true</code> when any connected and <code>false</code> when no one device connected.<br/></br>
 `getLY()` : Takes data from the left joystick on the y-axis. Will return an integer value of -127 to 128.<br/>
 `getLX()` : Takes data from the left joystick on the x-axis. Will return an integer value of -127 to 128.<br/>
 `getRY()` : Takes data from the right joystick on the y-axis. Will return an integer value of -127 to 128.<br/>
